@@ -1,7 +1,9 @@
 # Radiator.JS [![Build Status](https://secure.travis-ci.org/borestad/radiator-js.png?branch=master)](http://travis-ci.org/borestad/radiator-js)
 
 # What does it do?
-Makes you warm & fuzzy by turning up the temperature of your laptop
+First of all, it's built on node.js - so it basically solves every problem on earth!
+
+Second, it makes you warm & fuzzy by turning up the temperature of your laptop.
 
 ![Image of Warm cat]
 (http://www.roflcat.com/images/cats/Why_Is_It_Made_Of_Warm.jpg)
