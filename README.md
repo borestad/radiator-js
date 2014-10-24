@@ -5,6 +5,10 @@ Makes you warm & fuzzy by turning up the temperature of your laptop
 ## Why?
 Because it's frickin freezing outside!
 
+## Disclaimer
+I'll take no responsibility for this library. It's a friday joke :)
+Be careful to not put something on fire since your cpu will go crazy.
+
 ## Getting Started
 Install the module with: `npm install radiator-js -g`
 
