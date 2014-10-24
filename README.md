@@ -7,7 +7,7 @@ Because it's frickin freezing outside!
 
 ## Disclaimer
 I'll take no responsibility for this library. It's a friday joke :)
-Be careful to not put something on fire since your cpu will go crazy.
+Be careful to not put something on fire since your cpu(s) will go crazy and eat battery like it was no tomorrow.
 
 ## Getting Started
 Install the module with: `npm install radiator-js -g`
