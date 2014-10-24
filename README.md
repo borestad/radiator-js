@@ -1,9 +1,12 @@
 # Radiator.JS [![Build Status](https://secure.travis-ci.org/borestad/radiator-js.png?branch=master)](http://travis-ci.org/borestad/radiator-js)
 
-Makes you warm & fuzzy!
+Makes you warm & fuzzy by turning up the temperature of your laptop
+
+## Why?
+Because it's frickin freezing outside!
 
 ## Getting Started
-Install the module with: `npm install radiator-js`
+Install the module with: `npm install radiator-js -g`
 
 ## Documentation
 Wat?
@@ -12,6 +15,7 @@ Wat?
     > radiator
 
 ## Expected output
+![Image of Warm cat]
 (http://www.roflcat.com/images/cats/Why_Is_It_Made_Of_Warm.jpg)
 
 ## License
