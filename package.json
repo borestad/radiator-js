@@ -1,7 +1,7 @@
 {
   "name": "radiator-js",
   "description": "Makes you warm & fuzzy!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/borestad/radiator-js",
   "author": {
     "name": "Johan Borestad",
@@ -24,7 +24,6 @@
     "radiator": "lib/index.js"
   },
   "main": "lib/index.js",
-
   "engines": {
     "node": ">= 0.10.0"
   },
