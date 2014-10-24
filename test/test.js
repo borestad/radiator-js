@@ -1,6 +1,6 @@
 'use strict';
 
-var Radiator_JS = require('../lib/index.js');
+var radiator = require('../lib/radiator.js');
 
 /*
   ======== A Handy Little Nodeunit Reference ========
@@ -22,15 +22,14 @@ var Radiator_JS = require('../lib/index.js');
     test.ifError(value)
 */
 
-exports['awesome'] = {
+exports.radiator = {
   setUp: function(done) {
     // setup here
     done();
   },
+
   'no args': function(test) {
-    test.expect(1);
-    // tests here
-    test.equal(Radiator_JS.awesome(), 'awesome', 'should be awesome.');
+    test.ok(true);
     test.done();
   },
 };

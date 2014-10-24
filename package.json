@@ -1,5 +1,5 @@
 {
-  "name": "Radiator.JS",
+  "name": "radiator-js",
   "description": "Makes you warm & fuzzy!",
   "version": "0.0.1",
   "homepage": "https://github.com/borestad/radiator-js",
@@ -20,9 +20,13 @@
       "url": "https://github.com/borestad/radiator-js/blob/master/LICENSE-MIT"
     }
   ],
+  "bin": {
+    "radiator": "lib/index.js"
+  },
   "main": "lib/index.js",
+
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.10.0"
   },
   "scripts": {
     "test": "grunt nodeunit"
@@ -33,5 +37,8 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.5"
   },
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "usage": "^0.4.13"
+  }
 }

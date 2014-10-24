@@ -3,21 +3,16 @@
 Makes you warm & fuzzy!
 
 ## Getting Started
-Install the module with: `npm install Radiator.JS`
-
-```javascript
-var Radiator_JS = require('Radiator.JS');
-Radiator_JS.awesome(); // "awesome"
-```
+Install the module with: `npm install radiator-js`
 
 ## Documentation
-_(Coming soon)_
+Wat?
 
 ## Examples
-_(Coming soon)_
+    > radiator
 
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+## Expected output
+(http://www.roflcat.com/images/cats/Why_Is_It_Made_Of_Warm.jpg)
 
 ## License
 Copyright (c) 2014 Johan Borestad  
