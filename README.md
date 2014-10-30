@@ -28,3 +28,5 @@ Wat?
 ## License
 Copyright (c) 2014 Johan Borestad  
 Licensed under the MIT license.
+
+[ ![Codeship Status for borestad/radiator-js](https://www.codeship.io/projects/40155200-41a5-0132-2829-32846d08e1f5/status)](https://www.codeship.io/projects/44224)
