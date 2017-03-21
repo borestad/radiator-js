@@ -5,8 +5,7 @@ First of all, it's built on node.js - so it basically solves every problem on ea
 
 Second, it makes you warm & fuzzy by turning up the temperature of your laptop.
 
-![Image of Warm cat]
-(https://s-media-cache-ak0.pinimg.com/originals/06/34/f8/0634f8a6c52e425dec9a330f56898134.jpg)
+![Image of Warm cat](https://s-media-cache-ak0.pinimg.com/originals/06/34/f8/0634f8a6c52e425dec9a330f56898134.jpg)
 
 ## Why?
 Because it's frickin freezing outside!
